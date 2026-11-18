@@ -1,6 +1,8 @@
-# um-section-004
+# Hallway: career chats with professionals
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/codeyam-ai/um-section-2?quickstart=1)
+Built live in ENTR 411 at the University of Michigan with [CodeYam](https://codeyam.com). [Class slides](https://codeyam-curriculum.vercel.app/deck/entr-411).
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/codeyam-ai/um-section-004?quickstart=1)
 
 Hallway (working name): a place where recent and soon-to-be grads pick a career
 field, find a professional working in it, and book a short chat for advice.
